@@ -120,6 +120,11 @@ If approved — consume the permit manually.
 
 ---
 
+## Explorer
+
+![Governance Explorer](explorer-screenshot.png)
+
+
 ## Evaluator Logic
 
 Three independent evaluators run on every proposal:
