@@ -111,6 +111,13 @@ If approved — consume the permit manually.
 - **Expiration.** Permits expire after 24 hours.
 - **Architect control.** Only the Architect wallet can bind nodes, anchor canon, and deploy contracts.
 
+
+---
+
+## Architecture
+
+![XHRONOS Architecture](diagrams/architecture.svg)
+
 ---
 
 ## Evaluator Logic
